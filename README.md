@@ -1,5 +1,10 @@
 # Configuration
 
+Notable files:
+
+- configuration file: `/src/main/resources/mybatis-config.xml`
+- how is it file loaded: `/src/main/java/com/mybatis3/util/MyBatisSqlSessionFactory.java`
+
 ## XML
 
 xml is the most commonly used configuration approach for building `SqlSessionFactory` 
