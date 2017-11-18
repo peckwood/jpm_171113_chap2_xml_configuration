@@ -6,7 +6,9 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 <configuration>
 	<properties resource="db.properties">
 	</properties>
-
+<settings>
+	<setting name="autoMappingBehavior" value="PARTIAL"/>
+</settings>
 	<typeAliases>
 		<package name="com.mybatis3.domain" />
 	</typeAliases>
