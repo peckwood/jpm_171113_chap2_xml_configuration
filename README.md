@@ -232,3 +232,6 @@ application-specifc needs, are as follows:
 
 
 > [official documentation about configuration](http://www.mybatis.org/mybatis-3/configuration.html)
+>
+> book: Java Persistance with Mybatis 3 - chapter 2 - xml configuration
+
